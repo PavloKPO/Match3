@@ -57,6 +57,12 @@ sysinfo.txt
 Session.vim
 .netrwhist
 
+Library/
+Logs/
+Recordings/
+UserSettings/
+obj/Debug/
+
 # System
 .DS_Store
 Thumbs.db
