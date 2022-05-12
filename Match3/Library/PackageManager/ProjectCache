@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637878711384883598
-    m_Hash: 3362952613
+      ticks: 637879487346021048
+    m_Hash: 2889451762
   m_LockFileStatus:
     m_FilePath: D:/Download/GitHub/Match3/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637878711385135327
-    m_Hash: 734950870
+      ticks: 637879487346021048
+    m_Hash: 2093088076
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
